@@ -22,3 +22,6 @@ let varNull = null;
 
 console.log(typeof minhaVar)
 console.log(typeof varNull)
+
+console.log(typeof minhaVar)
+console.log(typeof varNull)
